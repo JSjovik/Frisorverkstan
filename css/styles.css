@@ -1,0 +1,119 @@
+/*top */
+body{
+  font-family: "Cardo", serif;
+  font-style: italic;
+}
+
+video {
+  width: 100%;
+  height: auto;
+}
+.browPic{
+  height: auto;
+  width: 75vh;
+}
+.line{
+  border-style: none;
+    border-top: 1px dotted gold;
+    border-width: 8px;
+    width: 30%;
+    background-color: inherit;
+    margin: auto;
+    }
+    .w-100 {
+      display: block;
+      width: 100%;
+      height: auto;
+}
+
+
+.titleBox{
+  width: 100%;
+  padding-top: 160px;
+  padding-bottom: 160px;
+}
+.topTxt{
+  padding-top: 100px;
+  text-align: center;
+}
+.logo{
+  width: 300px;
+  height: 300px;
+
+}
+.section{
+  text-align: center;
+  margin-top: 20px;
+}
+
+                                  /*Hair */
+.hair{
+  background-color: #dddddd;
+}
+.frisör{
+  text-align: center;
+}
+.slideDiv{
+  margin: auto;
+  width: 35%;
+  height: 35%;
+  padding-bottom: 30px;
+  border-radius: 100%;
+}
+
+
+                                 /*Treatments */
+.styleTxt{
+  text-align: center;
+}
+
+                                    /*booking */
+
+.booking{
+  text-align: center;
+  align-items: center;
+  background-color: #dddddd;
+
+}
+
+                                    /*about */
+
+
+.aboutLogo{
+  float: left;
+  margin-top: 15px;
+}
+.aboutTxt{
+  float: right;
+  padding-right: 230px;
+  padding-top: 40px;
+}
+.aboutSide{
+  float: right;
+}
+
+
+
+                                    /* */
+.listOrg{
+  text-align: center;
+  display: inline-block;
+}
+.behandlingar{
+  text-align: center;
+  width: 100%;
+  padding-top: 60px;
+  padding-bottom: 160px;
+}
+.frans{
+  background-color: #dddddd;
+}
+.hud{
+  background-color: #dddddd;
+}
+.skön{
+  background-color: #dddddd;
+}
+.markers{
+  font-weight: bold;
+}
